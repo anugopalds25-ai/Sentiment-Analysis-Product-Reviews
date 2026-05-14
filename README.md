@@ -34,15 +34,15 @@ Classify customer reviews (Positive, Negative, Neutral) from Amazon product data
 - Observed variation in text characteristics across sentiments
 
 ### Key Findings
-- Negative reviews dominate the dataset
-- Neutral class is very small
-- Data imbalance may affect model performance
+- Negative reviews dominate the dataset.
+- Neutral class is very small.
+- Data imbalance may affect model performance.
 
  ## ⚠️ Data Challenges
 
-- Class imbalance between sentiment classes
-- Presence of noise (URLs, special characters)
-- Short and inconsistent review texts
+- Class imbalance between sentiment classes.
+- Presence of noise (URLs, special characters).
+- Short and inconsistent review texts.
 
 ## Modeling Approach
 - Applied TF-IDF Vectorization with unigrams and bigrams
